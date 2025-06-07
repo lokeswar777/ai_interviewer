@@ -1,0 +1,24 @@
+# API Framework
+fastapi>=0.68.0
+uvicorn>=0.15.0
+websockets>=10.0
+python-dotenv>=0.19.0
+
+# Database
+sqlalchemy>=1.4.23
+sqlite3>=0.0.0
+
+# ML/LLM
+torch>=2.0.0
+transformers>=4.31.0
+sentencepiece>=0.1.99
+
+# Code Execution
+docker>=6.1.2
+python-multipart>=0.0.5
+
+# Utils
+pydantic>=1.8.2
+python-jose>=3.3.0
+passlib>=1.7.4
+bcrypt>=3.2.0
